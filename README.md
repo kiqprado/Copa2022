@@ -35,7 +35,7 @@ O Projeto foi desenvolvido para você que está procurando saber os horários e 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [https://kiqprado.github.io/Copa2022/]().
+Você pode visualizar o layout do projeto através [DESSE LINK](https://kiqprado.github.io/Copa2022/).
 
 ## :memo: Licença
 
